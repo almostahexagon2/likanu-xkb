@@ -12,3 +12,9 @@ xkb map for kokanu's likanu writing
 
 # Desktop environments
 later
+
+
+# Keys
+| likanu | Key |
+| ------ | --- |
+| 
